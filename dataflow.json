@@ -1,0 +1,45 @@
+{
+    "BigQuery Schema": [{
+      "name": "PassengerId",
+      "type": "STRING"
+     },
+     {
+      "name": "Survived",
+      "type": "STRING"
+     },
+     {
+      "name": "Pclass",
+      "type": "STRING"
+     },
+     {
+      "name": "Name",
+      "type": "STRING"
+     },
+     {
+      "name": "Sex",
+      "type": "STRING"
+     },
+     {
+      "name": "Age",
+      "type": "STRING"
+     },
+     {
+      "name": "SibSp",
+      "type": "STRING"
+     },
+     {
+      "name": "Parch",
+      "type": "STRING"
+     },
+     {
+      "name": "Ticket",
+      "type": "STRING"
+     },
+     {
+      "name": "Fare",
+      "type": "STRING"
+     }
+     
+    ]
+   }
+
